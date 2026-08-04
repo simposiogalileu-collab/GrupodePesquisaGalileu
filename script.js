@@ -23,7 +23,7 @@ const content={
   ],
   members:[
 {name:'Prof. Dr. Guilherme Rocha',role:'Orientador',bio:'Coordenador do Curso de Direito da Faculdade Galileu.',image:'Guilherme.png',lattes:'https://lattes.cnpq.br/5444414523142287'},
-{name:'Mirella Juvêncio',role:'Assistente',bio:'Discente do 6º semestre do Curso de Direito da Faculdade Galileu.',image:'Mirella.jpg',lattes:'#'},
+{name:'Mirella Juvêncio',role:'Assistente',bio:'Discente do 6º semestre do Curso de Direito da Faculdade Galileu.',image:'Mirella.jpg',lattes:'https://lattes.cnpq.br/9581364049834006'},
 {name:'Nathália Ribeiro',role:'Assistente',bio:'Discente do 7º semestre do Curso de Direito da Faculdade Galileu.',image:null,lattes:'#'},
   ],
   events:[
