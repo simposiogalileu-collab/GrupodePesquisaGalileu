@@ -24,7 +24,7 @@ const content={
   members:[
 {name:'Prof. Dr. Guilherme Rocha',role:'Orientador',bio:'Coordenador do Curso de Direito da Faculdade Galileu.',image:'Guilherme.png',lattes:'https://lattes.cnpq.br/5444414523142287'},
 {name:'Mirella Juvêncio',role:'Assistente',bio:'Discente do 6º semestre do Curso de Direito da Faculdade Galileu.',image:'Mirella.jpg',lattes:'https://lattes.cnpq.br/9581364049834006'},
-{name:'Nathália Ribeiro',role:'Assistente',bio:'Discente do 7º semestre do Curso de Direito da Faculdade Galileu.',image:null,lattes:'#'},
+{name:'Nathália Ribeiro',role:'Assistente',bio:'Discente do 7º semestre do Curso de Direito da Faculdade Galileu.',image:'Nathalia.jpg',lattes:'https://lattes.cnpq.br/0788925273698208'},
   ],
   events:[
    {title:'Encontro de pesquisa: Constitucionalismo digital',date:'2026-08-12',time:'19:00',location:'Sala de Metodologias Ativas',type:'Grupo de estudo'},
