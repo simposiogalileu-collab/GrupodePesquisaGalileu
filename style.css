@@ -148,4 +148,4 @@
     padding-top:18px;
     margin-top:24px;
 }
-@media only screen and (max-width:700px){.team-grid .member-image-wrapper img[src="Mirella.jpg"]{object-position:center top!important;}}
+@media only screen and (max-width:700px){.team-grid .member-card:nth-child(2) .member-image-wrapper{height:320px!important;overflow:hidden;}.team-grid .member-card:nth-child(2) .member-image-wrapper img[src="Mirella.jpg"]{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center top!important;}}
